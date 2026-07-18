@@ -31,7 +31,7 @@ The diagram below shows how the five repos connect at runtime. One nginx routes 
 [GSAP](https://gsap.com): strip morph animation of navbar pill <br />
 [View Transitions API](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API): club history chapter open and close animation <br />
 [Sass](https://sass-lang.com) + [axlothecook-sass-library](https://github.com/axlothecook/axlothecook-sass-library): global styling <br />
-[i18n](https://www.i18next.com): cookie-driven HR/EN switching of all text on the website <br />
+i18n: cookie-driven HR/EN switching of all text on the website <br />
 [adapter-node](https://svelte.dev/docs/kit/adapter-node): builds the site into a self-contained Node server that renders pages on the server; it's what runs inside the Docker container on the Pi <br />
 [Vite 8](https://vite.dev): used for building and development server <br />
 [flag-icons](https://github.com/lipis/flag-icons): the individual country flag icons in the language switcher <br />
