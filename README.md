@@ -21,7 +21,7 @@ Config files and a bash script that act as instructions on how to deploy Docker 
 ## How it fits together
 The diagram below shows how the five repos connect at runtime. One nginx routes each request to the public site, the dashboard, or the API, and the backend owns the data: Postgres, R2 images, and translations.
 
-![image](https://github.com/user-attachments/assets/fd63d4e3-d621-4c0a-a702-39836ca7c22b)
+![image](https://github.com/user-attachments/assets/43e187df-3930-4f50-8c59-ee4217750215)
 
 
 # Tech stack
